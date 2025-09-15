@@ -1,0 +1,16 @@
+[
+  {
+    "text": "Introduce",
+    "link": "/introduce/",
+    "activeMatch": "/introduce/"
+  },
+  {
+    "text": "BASIC",
+    "link": "/basic/",
+    "activeMatch": "/basic/"
+  },
+  {
+    "text": "API",
+    "link": "https://rspress.dev/api/index.html"
+  }
+]
